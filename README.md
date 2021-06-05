@@ -1,2 +1,2 @@
 # community-init-sql
-社区后台数据脚本
+社区系统后台数据脚本
